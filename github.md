@@ -1,15 +1,8 @@
----
-title: "Untitled"
-author: "Author name"
-date: "2023-05-31"
-output: 
-  html_document: 
-    keep_md: yes
----
+Untitled
+================
+Author name
+2023-05-31
 
-
-
-
-```r
+``` r
 ## insert your brilliant WORKING code here
 ```
